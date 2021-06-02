@@ -2,7 +2,7 @@ scalaVersion := "2.13.3"
 
 name := "command"
 organization := "io.typecraft"
-version := "1.0"
+version := "0.1.0"
 
 libraryDependencies ++= Seq(
   "org.typelevel" %% "cats-kernel" % "2.3.0",
